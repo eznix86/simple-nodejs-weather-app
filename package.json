@@ -1,0 +1,23 @@
+{
+  "name": "simple-nodejs-weather-app",
+  "version": "1.0.0",
+  "description": "https://codeburst.io/build-a-simple-weather-app-with-node-js-in-just-16-lines-of-code-32261690901d",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theArtechnology/simple-nodejs-weather-app.git"
+  },
+  "author": "Bruno Bernard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theArtechnology/simple-nodejs-weather-app/issues"
+  },
+  "homepage": "https://github.com/theArtechnology/simple-nodejs-weather-app#readme",
+  "dependencies": {
+    "request": "^2.85.0",
+    "yargs": "^11.0.0"
+  }
+}
